@@ -20,10 +20,10 @@ A domain controller server is established with Active-Directory Domain Services(
 <h2>Project walk-through:</h2>
 
 
-To view the detailed set up of the VM environment and lab please see Josh Madakor's youtube video <b>How to Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell</b> at https://www.youtube.com/watch?v=MHsI8hJmggI
 
 
-Having the DC VM installed, the domain controller VM is configured through the following steps:
+
+Having the Domain Controller(DC) VM set up, the DC VM is configured through the following steps:
 
 Go to settings-->Advanced Tab
 
